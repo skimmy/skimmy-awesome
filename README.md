@@ -14,6 +14,9 @@ A collection of resources about all interesting topics curated by
 
 
 ## Dev
+- [Advanced Python Mastery](https://github.com/dabeaz-course/python-mastery): An exercise-driven course on Advanced Python Programming by [David Beazley](https://www.dabeaz.com)
+- [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
+- [TestDriven.io](https://testdriven.io/): Learn to build high-quality web apps with best practices.
 - [Bokeh](https://docs.bokeh.org/en/latest/index.html): Python library for creating interactive visualizations for modern web browsers
 
 ## Hacking
@@ -30,6 +33,7 @@ A collection of resources about all interesting topics curated by
 
 ## Resources
 - [SVG Mix](https://svgmix.com/): Icon and logo collections free to use in your projects.
+- [Icon Buddy](https://iconbuddy.app/): Download, Customize, Edit and Personalize. Over 180k+ open source icons
 - [Big list of free open API](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/): List of free API that don't require authentication.
 - [Public APIs](https://github.com/public-apis/public-apis): A collective list of free APIs for use in software and web development
 - [Free for dev](https://github.com/ripienaar/free-for-dev): list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
