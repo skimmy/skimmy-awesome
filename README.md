@@ -6,15 +6,25 @@ A collection of resources about all interesting topics curated by
 
 - [Awesome list curated by skimmy 😎](#awesome-list-curated-by-skimmy-)
   - [Contents](#contents)
+  - [Cryptography](#cryptography)
   - [Dev](#dev)
+  - [Graphics](#graphics)
   - [Hacking](#hacking)
   - [Misc tools](#misc-tools)
   - [Network](#network)
   - [Resources](#resources)
 
 
+## Cryptography
+- [Elliptic Curve Cryptography Resources](https://conduition.io/cryptography/ecc-resources/): Collection of resources on elliptic curve cryptography.
+- [Schnorr Signature](https://conduition.io/cryptography/schnorr/): A Dive Into the Math Behind Bitcoin Schnorr Signatures
+
 ## Dev
 - [Bokeh](https://docs.bokeh.org/en/latest/index.html): Python library for creating interactive visualizations for modern web browsers
+
+## Graphics
+- [Ira Design](https://iradesign.io/): Build your own amazing illustrations.
+- [Pixelied](https://pixelied.com/): Create Stunning Designs in Seconds.
 
 ## Hacking
 
