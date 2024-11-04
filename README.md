@@ -22,7 +22,8 @@ A collection of resources about all interesting topics curated by
 ## Dev
 - [Advanced Python Mastery](https://github.com/dabeaz-course/python-mastery): An exercise-driven course on Advanced Python Programming by [David Beazley](https://www.dabeaz.com)
 - [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
-- [TestDriven.io](https://testdriven.io/): Learn to build high-quality web apps with best practices.
+- [FastHTML](https://github.com/answerdotai/fasthtml): Welcome to the official FastHTML documentation
+- [TestDriven.io](https://testdriven.io/): Learn to build high-quality web apps with best practices
 - [Bokeh](https://docs.bokeh.org/en/latest/index.html): Python library for creating interactive visualizations for modern web browsers
 
 ## Graphics
